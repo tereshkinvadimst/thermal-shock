@@ -1,0 +1,19 @@
+#main
+101		# number of points
+1e-10		# max time [s]
+1e-12		# output step
+1e-5		# lenght [m]
+300.		# init temperature [K]
+2		# border type
+1		# event type
+0		# event start [s]
+1e-12		# event stop [s]
+# material input file
+Si.txt
+#thermal shock
+0.		# position of shock [m]
+400.		# temperature of shock [K]
+1e+8		# exp coeff
+#border
+0.		# X1
+0.		# X2
